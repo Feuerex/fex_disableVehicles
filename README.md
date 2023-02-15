@@ -20,3 +20,5 @@ Empty and friendly vehicles are not affected.
 
 The code's purpose is to provide a "cheat" of sorts, to effectively eliminate the threat of armored vehicles while trying not to break the scenario's logic.
 Nevertheless, it is not a guarantee that the scenario will work with this mod active. Use at your own risk.
+
+For other content creators: this mod uses a global variable fex_DHHandle (short for feuerex_disableVehiclesHandle). All other variables and names should be either local to the scripts themselves, or dynamically created as to not clash with any other assets/logic used in the mission.
