@@ -1,6 +1,9 @@
 # fex_disableVehicles
 tiny mod made on request for a cool dude
 
+get it from steam workshop here
+https://steamcommunity.com/sharedfiles/filedetails/?id=2933083300
+
 
 it's actually very simple. The mod adds one new function that initializes at the start of a mission. 
 
