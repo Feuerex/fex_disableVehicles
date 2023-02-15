@@ -19,7 +19,8 @@ Empty and friendly vehicles are not affected.
 
 The action can only be activated once every 10 seconds, to prevent abuse and spamming it, which may cause unintended behavior. The 10 second timeout is shared across all players.
 
-Once activated, the action also gives you a message showing how many vehicles were affected, 
+Once activated, the action also gives you a message showing how many vehicles were affected, shows a marker on the map with the affected area, and plays a short sound to let you know that the code actually does something. It's kinda similar to how game trainers play some sort of sound as well.
+The sound plays just for player who made the action, the marker should be visible to everyone, and the message is shown to everyone from the same side as the player.
 
 The code's purpose is to provide a "cheat" of sorts, to effectively eliminate the threat of armored vehicles while trying not to break the scenario's logic.
 Nevertheless, it is not a guarantee that the scenario will work with this mod active. Use at your own risk.
