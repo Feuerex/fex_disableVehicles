@@ -14,6 +14,8 @@ _filteredV = _allV select {_x distance _target <= 1000 && !([side _target, side 
 	_x setVehicleAmmoDef 0;
 	_x setFuel 0;
 } forEach _filteredV;
+//play a sound
+playSoundUI ["A3\Sounds_F\sfx\blip1.wss", 1, 1];
 //inform the player (and potentially others from their side) about the action taken.
 if (count _filteredV <= 0) then 
 {
